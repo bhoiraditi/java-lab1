@@ -1,1 +1,1 @@
-# java-lab1
+# java-labs
